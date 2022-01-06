@@ -3,6 +3,9 @@
 
 [![NPM](https://nodei.co/npm/djs-together.png)](https://nodei.co/npm/djs-together)
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
+
 A simple package for [Discord.JS](https://www.npmjs.com/package/discord.js) for creating activities invites.
 
 # 📌 Installing
