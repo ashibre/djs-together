@@ -1,0 +1,19 @@
+{
+  "name": "djs-together",
+  "version": "1.1.3",
+  "description": "A simple package for creating activities invites.",
+  "main": "index.js",
+  "author": "ashibre",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "exports": {
+    "./*": "./*",
+    ".": {
+      "require": "./index.js",
+      "import": "./index.mjs"
+    }
+  },
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
+}
