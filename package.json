@@ -6,6 +6,9 @@
   "author": "ashibre",
   "license": "MIT",
   "types": "./index.d.ts",
+  "repository": {
+    "url": "https://github.com/ashibre/djs-together"
+  },
   "exports": {
     "./*": "./*",
     ".": {
@@ -13,6 +16,7 @@
       "import": "./index.mjs"
     }
   },
+  "homepage": "https://github.com/ashibre/djs-together#readme",
   "dependencies": {
     "discord.js": "^13.2.0"
   }
